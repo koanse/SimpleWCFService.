@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.MainForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\bin\Release\STest.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\bin\Release\STest.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\bin\Release\STest.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\STest\obj\Release\STest.ParamForm.resources

@@ -1,0 +1,7 @@
+﻿start 4 10000000 25
+open syn channel1 400 1,5 50
+open tri channel2 100 1,5 10000
+open squ channel3 100 1,5 10000
+open cst channel4 sin(6.28*t) 10000
+open cst channel5 sin(6.28*t)*(1+2*sin(100*t)) 10000
+open cst channel6 sin(6.28*t)*(1+4*sin(1000*t)) 10000

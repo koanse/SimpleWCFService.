@@ -1,0 +1,7 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\bin\Release\SService.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\bin\Release\SService.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\bin\Release\SService.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\obj\Release\SService.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\obj\Release\SService.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SService\bin\Release\SService.XML

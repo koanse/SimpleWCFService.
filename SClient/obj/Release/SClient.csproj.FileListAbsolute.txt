@@ -1,0 +1,10 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.ChannelForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.DataForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.LogonForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Release\SClient.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Release\SClient.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Release\SClient.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Release\SClient.exe.config

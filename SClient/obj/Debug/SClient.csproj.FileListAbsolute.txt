@@ -1,0 +1,20 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.exe.config
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.exe.config
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\bin\Debug\SClient.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.Form1.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.csproj.GenerateResource.Cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.pdb
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.ChannelForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.LogonForm.resources
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Signal\SClient\obj\Debug\SClient.DataForm.resources
